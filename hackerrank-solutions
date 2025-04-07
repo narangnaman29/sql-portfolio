@@ -1,0 +1,13 @@
+Description
+The compiled solutions encompass all SQL challenges, ranging from Easy to Hard, on HackerRank. These solutions were executed in a MS SQL Server environment.
+
+Solution Table
+In the below table, the columns indicate the following attributes related to the weekly challenge:
+
+ID : Identity column for individual challenge.
+
+Challenges : Link to the SQL questions hosted on HackerRank.
+
+Difficulty : Difficulty level of the SQL challenge.
+
+Solution Script : Link to the solution SQL script hosted in this repository.
